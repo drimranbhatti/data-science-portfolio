@@ -1,0 +1,15 @@
+To: billing@v008.example.com
+Subject: Query on invoice 08-4050
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+From: accounts.payable@example.org
+
+Hello Atlas Software Licensing team,
+
+We are holding invoice 08-4050 dated 2026-10-27 for $3,459.84 because a unit =
+price is higher than the agreed purchase-order price. Please send a corrected=
+ invoice or confirm the details.
+
+Thank you,
+Accounts Payable

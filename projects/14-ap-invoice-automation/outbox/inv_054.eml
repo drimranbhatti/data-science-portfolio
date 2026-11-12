@@ -1,0 +1,10 @@
+To: ap-controls@example.org
+Subject:
+ ALERT: bank details changed on Atlas Software Licensing invoice 08-5263
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+From: accounts.payable@example.org
+
+Invoice 08-5263 ($3,561.60) asks for payment to ****1373, but the vendor mast=
+er holds ****6671. Hold payment and verify by phone using the number on file.

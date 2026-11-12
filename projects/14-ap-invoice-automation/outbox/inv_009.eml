@@ -1,0 +1,10 @@
+To: ap-controls@example.org
+Subject:
+ ALERT: bank details changed on Keystone Facilities Group invoice 05-2933
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+From: accounts.payable@example.org
+
+Invoice 05-2933 ($589.36) asks for payment to ****2655, but the vendor master=
+ holds ****3310. Hold payment and verify by phone using the number on file.

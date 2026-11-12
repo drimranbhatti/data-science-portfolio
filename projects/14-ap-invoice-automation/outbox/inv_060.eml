@@ -1,0 +1,9 @@
+To: ap-controls@example.org
+Subject: ALERT: bank details changed on Summit Print & Mail invoice 04-4921
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+From: accounts.payable@example.org
+
+Invoice 04-4921 ($678.40) asks for payment to ****2444, but the vendor master=
+ holds ****7765. Hold payment and verify by phone using the number on file.

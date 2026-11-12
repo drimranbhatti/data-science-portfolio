@@ -1,0 +1,15 @@
+To: billing@v005.example.com
+Subject: Query on invoice 05-8315
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+From: accounts.payable@example.org
+
+Hello Keystone Facilities Group team,
+
+We are holding invoice 05-8315 dated 2026-09-11 for $617.34 because a unit pr=
+ice is higher than the agreed purchase-order price. Please send a corrected i=
+nvoice or confirm the details.
+
+Thank you,
+Accounts Payable

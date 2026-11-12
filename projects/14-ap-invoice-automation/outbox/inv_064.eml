@@ -1,0 +1,10 @@
+To: ap-controls@example.org
+Subject:
+ ALERT: bank details changed on Northwind Office Supply LLC invoice 01-8885
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+From: accounts.payable@example.org
+
+Invoice 01-8885 ($591.48) asks for payment to ****4023, but the vendor master=
+ holds ****4421. Hold payment and verify by phone using the number on file.

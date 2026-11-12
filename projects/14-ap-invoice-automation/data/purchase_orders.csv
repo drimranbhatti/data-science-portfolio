@@ -1,0 +1,73 @@
+po,vendor_id,lines,po_total
+PO-26000,V008,"[[""Support plan"", 1, 1200.0], [""Accounting software seat, annual"", 2, 960.0]]",3120.0
+PO-26001,V005,"[[""HVAC maintenance visit"", 2, 520.0]]",1040.0
+PO-26002,V011,"[[""Alarm monitoring, monthly"", 20, 210.0]]",4200.0
+PO-26003,V004,"[[""Brochure print run"", 1, 640.0], [""Postage, bulk"", 3, 0.58], [""Envelopes, 1000"", 20, 74.0]]",2121.74
+PO-26004,V011,"[[""Access card"", 4, 6.5]]",26.0
+PO-26005,V006,"[[""Overnight parcel"", 1, 24.5]]",24.5
+PO-26006,V005,"[[""HVAC maintenance visit"", 2, 520.0], [""Filter replacement"", 1, 36.0]]",1076.0
+PO-26007,V001,"[[""Toner cartridge"", 10, 118.0], [""Binders, box of 12"", 1, 27.9]]",1207.9
+PO-26008,V005,"[[""HVAC maintenance visit"", 1, 520.0], [""Filter replacement"", 1, 36.0]]",556.0
+PO-26009,V001,"[[""Toner cartridge"", 12, 118.0]]",1416.0
+PO-26010,V004,"[[""Brochure print run"", 1, 640.0], [""Postage, bulk"", 10, 0.58], [""Envelopes, 1000"", 10, 74.0]]",1385.8
+PO-26011,V010,"[[""5-gallon bottle"", 2, 7.5], [""Cooler rental, monthly"", 10, 12.0]]",135.0
+PO-26012,V003,"[[""Carpet shampoo"", 4, 260.0]]",1040.0
+PO-26013,V007,"[[""Lunch for 20"", 1, 340.0]]",340.0
+PO-26014,V006,"[[""Overnight parcel"", 12, 24.5], [""Same-day delivery"", 2, 38.0]]",370.0
+PO-26015,V005,"[[""HVAC maintenance visit"", 2, 520.0]]",1040.0
+PO-26016,V009,"[[""Light fixture"", 12, 145.0]]",1740.0
+PO-26017,V002,"[[""Laptop setup"", 4, 95.0]]",380.0
+PO-26018,V010,"[[""Cooler rental, monthly"", 1, 12.0], [""5-gallon bottle"", 2, 7.5]]",27.0
+PO-26019,V010,"[[""Cooler rental, monthly"", 3, 12.0]]",36.0
+PO-26020,V007,"[[""Lunch for 20"", 1, 340.0], [""Coffee service"", 2, 85.0]]",510.0
+PO-26021,V003,"[[""Carpet shampoo"", 2, 260.0]]",520.0
+PO-26022,V012,"[[""Advisory hours"", 1, 225.0]]",225.0
+PO-26023,V001,"[[""Binders, box of 12"", 1, 27.9]]",27.9
+PO-26024,V006,"[[""Same-day delivery"", 1, 38.0]]",38.0
+PO-26025,V001,"[[""Binders, box of 12"", 5, 27.9], [""Copy paper, case"", 1, 42.5], [""Toner cartridge"", 12, 118.0]]",1598.0
+PO-26026,V001,"[[""Binders, box of 12"", 10, 27.9], [""Copy paper, case"", 10, 42.5]]",704.0
+PO-26027,V002,"[[""Laptop setup"", 1, 95.0]]",95.0
+PO-26028,V007,"[[""Coffee service"", 20, 85.0], [""Lunch for 20"", 1, 340.0]]",2040.0
+PO-26029,V010,"[[""Cooler rental, monthly"", 1, 12.0]]",12.0
+PO-26030,V010,"[[""Cooler rental, monthly"", 5, 12.0], [""5-gallon bottle"", 4, 7.5]]",90.0
+PO-26031,V006,"[[""Overnight parcel"", 5, 24.5], [""Same-day delivery"", 10, 38.0]]",502.5
+PO-26032,V004,"[[""Postage, bulk"", 3, 0.58]]",1.74
+PO-26033,V003,"[[""Carpet shampoo"", 1, 260.0], [""Office cleaning, weekly"", 4, 380.0]]",1780.0
+PO-26034,V005,"[[""Filter replacement"", 10, 36.0]]",360.0
+PO-26035,V012,"[[""Workshop facilitation"", 1, 1800.0], [""Advisory hours"", 4, 225.0]]",2700.0
+PO-26036,V005,"[[""HVAC maintenance visit"", 1, 520.0]]",520.0
+PO-26037,V005,"[[""HVAC maintenance visit"", 1, 520.0]]",520.0
+PO-26038,V009,"[[""Electrician hour"", 3, 98.0], [""Light fixture"", 12, 145.0]]",2034.0
+PO-26039,V008,"[[""Accounting software seat, annual"", 1, 960.0]]",960.0
+PO-26040,V009,"[[""Light fixture"", 3, 145.0]]",435.0
+PO-26041,V012,"[[""Advisory hours"", 12, 225.0], [""Workshop facilitation"", 1, 1800.0]]",4500.0
+PO-26042,V011,"[[""Access card"", 3, 6.5], [""Alarm monitoring, monthly"", 1, 210.0]]",229.5
+PO-26043,V007,"[[""Coffee service"", 20, 85.0]]",1700.0
+PO-26044,V001,"[[""Binders, box of 12"", 1, 27.9], [""Copy paper, case"", 12, 42.5]]",537.9
+PO-26045,V008,"[[""Accounting software seat, annual"", 1, 960.0]]",960.0
+PO-26046,V006,"[[""Overnight parcel"", 2, 24.5]]",49.0
+PO-26047,V012,"[[""Workshop facilitation"", 1, 1800.0], [""Advisory hours"", 12, 225.0]]",4500.0
+PO-26048,V009,"[[""Light fixture"", 4, 145.0]]",580.0
+PO-26049,V003,"[[""Carpet shampoo"", 10, 260.0], [""Office cleaning, weekly"", 20, 380.0]]",10200.0
+PO-26050,V007,"[[""Lunch for 20"", 20, 340.0]]",6800.0
+PO-26051,V010,"[[""Cooler rental, monthly"", 1, 12.0]]",12.0
+PO-26052,V008,"[[""Support plan"", 1, 1200.0], [""Accounting software seat, annual"", 1, 960.0]]",2160.0
+PO-26053,V008,"[[""Accounting software seat, annual"", 1, 960.0], [""Support plan"", 2, 1200.0]]",3360.0
+PO-26054,V001,"[[""Copy paper, case"", 3, 42.5]]",127.5
+PO-26055,V006,"[[""Overnight parcel"", 1, 24.5]]",24.5
+PO-26056,V010,"[[""5-gallon bottle"", 1, 7.5], [""Cooler rental, monthly"", 10, 12.0]]",127.5
+PO-26057,V009,"[[""Electrician hour"", 20, 98.0]]",1960.0
+PO-26058,V003,"[[""Carpet shampoo"", 2, 260.0]]",520.0
+PO-26059,V004,"[[""Brochure print run"", 1, 640.0]]",640.0
+PO-26060,V005,"[[""HVAC maintenance visit"", 1, 520.0], [""Filter replacement"", 20, 36.0]]",1240.0
+PO-26061,V011,"[[""Alarm monitoring, monthly"", 3, 210.0]]",630.0
+PO-26062,V006,"[[""Overnight parcel"", 20, 24.5]]",490.0
+PO-26063,V001,"[[""Binders, box of 12"", 20, 27.9]]",558.0
+PO-26064,V002,"[[""Managed services, monthly"", 1, 2450.0]]",2450.0
+PO-26065,V003,"[[""Office cleaning, weekly"", 5, 380.0], [""Carpet shampoo"", 10, 260.0]]",4500.0
+PO-26066,V007,"[[""Coffee service"", 1, 85.0]]",85.0
+PO-26067,V008,"[[""Support plan"", 1, 1200.0], [""Accounting software seat, annual"", 2, 960.0]]",3120.0
+PO-26068,V001,"[[""Copy paper, case"", 3, 42.5], [""Toner cartridge"", 20, 118.0]]",2487.5
+PO-26069,V005,"[[""HVAC maintenance visit"", 1, 520.0], [""Filter replacement"", 2, 36.0]]",592.0
+PO-26070,V007,"[[""Coffee service"", 3, 85.0]]",255.0
+PO-26071,V005,"[[""HVAC maintenance visit"", 1, 520.0], [""Filter replacement"", 1, 36.0]]",556.0
