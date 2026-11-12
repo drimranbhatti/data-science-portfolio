@@ -1,6 +1,6 @@
 # Data Science & Business Analytics Portfolio
 
-Applied data-science projects focused on the questions **finance leaders and business owners** ask: who will churn and is it worth saving them, how healthy is recurring revenue, is customer satisfaction really changing, and what does the sales database say. Each project is a single executed notebook with its data, charts and plain-language recommendations.
+Applied data-science projects focused on the questions **finance leaders and business owners** ask: who will churn and is it worth saving them, how healthy is recurring revenue, what is our currency exposure, which journal entries should audit look at, what will demand be next quarter, and what does the sales database say. Each project is a single executed notebook with its data, charts and plain-language recommendations.
 
 | Project | Summary |
 |---|---|
@@ -11,14 +11,19 @@ Applied data-science projects focused on the questions **finance leaders and bus
 | [Pakistan Stock Exchange: risk & moving-average strategies](projects/05-psx-stock-analysis) | Six PSX stocks plus Apple: risk, correlation and drawdowns, then dual moving-average strategies with parameters chosen **in-sample** and judged **out-of-sample**, net of costs. Mixed results that show how single-sample backtests mislead. |
 | [SQL business analytics (Chinook)](projects/06-sql-business-analytics) | Eight business questions in SQL: revenue by genre and country, running totals and MoM growth with **window functions**, sales-rep ranking, **RFM segmentation**, album-vs-track purchasing and catalogue utilisation. |
 | [Monthly temperature trends, 1901-2017](projects/07-climate-temperature-trends) | Reshaping, seasonality, warming trend with autocorrelation-robust (Newey-West) CIs: **0.4 °C/century before 1960 vs 2.2 °C/century after**, plus a decadal anomaly heatmap. |
+| [House-price valuation model (Ames, Iowa)](projects/08-house-price-valuation) | Automated valuation of 2,930 home sales: ridge, lasso and gradient boosting on log prices with 5-fold CV; **median error ≈ 5%**, 78% of valuations within 10% of the sale price; value drivers and error by price segment. |
+| [Currency risk: ECB euro reference rates, 1999-2021](projects/09-fx-rate-risk) | Volatility regimes, correlations and tail events (e.g. the 2015 Swiss franc de-peg), then a 10-day 99% **VaR of a multi-currency receivables book** vs its worst historical loss (about 4-5× larger). |
+| [Demand forecasting: daily bike-sharing rentals](projects/10-demand-forecasting) | Calendar + weather regression vs seasonal-naive baselines on a 6-month hold-out; **22% lower error than the naive forecast**; why tree models fail to extrapolate growth, and why WAPE beats MAPE. |
+| [App-market analysis: Google Play Store](projects/11-app-market-analysis) | Cleaning messy text fields, then competition vs demand by category, free vs paid economics (paid apps: median 1k installs vs 100k free) and niche opportunities. |
+| [Audit analytics: journal-entry testing](projects/12-audit-analytics-journal-entries) | Full-population GL testing on a **synthetic ledger**: Benford's law, weekend/after-hours/round-amount/below-threshold/duplicate rules and an Isolation Forest risk score. Reviewing **1.8% of entries catches 100% of planted anomalies**. |
 
 <p float="left">
   <img src="projects/01-customer-churn-prediction/images/profit_curve.png" width="49%" />
-  <img src="projects/02-saas-subscription-metrics/images/cohorts.png" width="49%" />
+  <img src="projects/12-audit-analytics-journal-entries/images/audit_efficiency.png" width="49%" />
 </p>
 
 ## Skills shown
-**Python** (pandas, NumPy, scikit-learn, statsmodels, matplotlib/seaborn) · **SQL** (CTEs, window functions, RFM) · classification and model evaluation (ROC/PR, cross-validation, calibration to business value) · **NLP** (TF-IDF, linear models) · **SaaS/finance KPIs** (MRR, churn, cohorts, LTV, NPS) · time-series trend inference · honest out-of-sample backtesting
+**Python** (pandas, NumPy, scikit-learn, statsmodels, matplotlib/seaborn) · **SQL** (CTEs, window functions, RFM) · classification and model evaluation (ROC/PR, cross-validation, calibration to business value) · **NLP** (TF-IDF, linear models) · **SaaS/finance KPIs** (MRR, churn, cohorts, LTV, NPS) · time-series forecasting & trend inference · **audit analytics** (Benford, JE testing, anomaly detection) · FX risk / VaR · honest out-of-sample backtesting
 
 ## More quantitative-finance work
 * [derivatives-pricing-toolkit](https://github.com/drimranbhatti/derivatives-pricing-toolkit): Black-Scholes, Heston, Merton, Bates, calibration
@@ -29,7 +34,7 @@ Applied data-science projects focused on the questions **finance leaders and bus
 * [crypto-deep-learning-trading](https://github.com/drimranbhatti/crypto-deep-learning-trading) · [ml-finance-models](https://github.com/drimranbhatti/ml-finance-models)
 
 ## Data sources
-IBM Telco Customer Churn sample · UCI SMS Spam Collection · Chinook sample database (L. Rocha) · PSX historical prices · public course datasets (subscriptions, NPS, monthly temperatures). Datasets are included for reproducibility and belong to their respective owners.
+IBM Telco Customer Churn sample · UCI SMS Spam Collection · Ames Housing (De Cock, 2011) · ECB euro reference rates · UCI Bike Sharing · Google Play Store apps (Kaggle) · a synthetic general ledger generated in-notebook · Chinook sample database (L. Rocha) · PSX historical prices · public course datasets (subscriptions, NPS, monthly temperatures). Datasets are included for reproducibility and belong to their respective owners.
 
 ---
 **Dr. Muhammad Imran Bhatti, PhD** · Finance & AI · [LinkedIn](https://www.linkedin.com/in/drimranbhatti) · [imranbhatti.com](https://imranbhatti.com) · MIT licensed (code)
