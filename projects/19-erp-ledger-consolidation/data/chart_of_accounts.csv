@@ -1,0 +1,29 @@
+account_code,account_name,type
+11010001,Cash in Hand - Riyadh,asset
+11020001,Bank - Example National Bank,asset
+11020002,Bank - Example Islamic Bank,asset
+11510001,Advances to Suppliers,asset
+12170001,VAT Input Tax - On Purchases,asset
+13010001,Inventory - Construction Materials,asset
+21010001,Trade Payables,liability
+21270001,VAT Output Tax - On Sales,liability
+21300001,Advances from Customers,liability
+21500001,Retention Payable,liability
+22010001,End of Service Benefits Provision,liability
+31010001,Share Capital,equity
+41010001,Contract Revenue,revenue
+41020001,Maintenance Revenue,revenue
+51010001,Direct Materials,cost
+51020001,Subcontractor Costs,cost
+51030001,Direct Labour,cost
+51040001,Equipment Hire,cost
+61010001,Salaries - Admin,expense
+61020001,Office Rent,expense
+61030001,Utilities,expense
+61040001,Bank Charges,expense
+61050001,Travel,expense
+12500101,ACC.R - Customer A - City Municipality,asset
+12500102,ACC.R - Customer B - Regional Water Authority,asset
+12500103,ACC.R - Customer C - Industrial Estates Co.,asset
+12500104,ACC.R - Customer D - Private Developer,asset
+12500105,ACC.R - Customer E - Hospital Trust,asset

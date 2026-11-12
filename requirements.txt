@@ -8,3 +8,6 @@ joblib>=1.3
 jupyter
 pdfplumber>=0.10
 reportlab>=4.0
+vaderSentiment>=3.3
+textblob>=0.17
+linearmodels>=5.0

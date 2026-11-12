@@ -1,0 +1,12 @@
+voucher,issue
+CI20000223,vat_old_rate_after_change
+CI20000242,vat_old_rate_after_change
+CI21000258,vat_old_rate_after_change
+CI21000278,vat_old_rate_after_change
+CI21000289,vat_old_rate_after_change
+CI21000300,vat_old_rate_after_change
+MJ21000539,unbalanced
+MJ18000071,unbalanced
+MJ21000506,unbalanced
+MJ19000222,unbalanced
+CI21000308,missing_from_csv_export
