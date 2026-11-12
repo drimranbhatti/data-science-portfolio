@@ -1,7 +1,0 @@
-This commit includes:
-- Jupyter notebook (.ipynb) analyzing Apple stock using SMA crossover strategy
-- HTML export for static viewing
-- Source CSV data used in the analysis
-- Thumbnail image for README visualization
-
-Part of the finance section in my data science portfolio. 
